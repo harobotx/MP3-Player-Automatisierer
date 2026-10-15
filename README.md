@@ -45,11 +45,6 @@ Anschließend werden die Fragen im Terminal beantwortet: Enter oder `y` bedeutet
 Vorher: `Song_Name_final.mp3` (Tag: Track 3, Titel "Mein Song")
 Nachher: `03 - Mein Song.mp3`
 
-## Mögliche Erweiterungen
-
-- Pfade und Präfix-Länge über eine Konfigurationsdatei oder Kommandozeilenargumente einstellbar machen
-- Unterstützung für weitere Formate (z. B. FLAC, M4A)
-
 ## Technik
 
 - Python
